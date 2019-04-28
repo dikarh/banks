@@ -1,0 +1,23 @@
+{
+	"resultado": {
+		 "data": [ {
+		"active":1,
+		"description": "BANCOMER",
+		"bankId": 1,
+		"keyBank": "012"},
+		{
+		"active":1,
+		"description": "BANAMEX",
+		"bankId": 2,
+		"keyBank": "002"},
+		{
+		"active":1,
+		"description": "SANTANDER",
+		"bankId": 3,
+		"keyBank": "014"},
+
+	],
+
+ 	"codeHttpStatus" : 200
+	}
+}
